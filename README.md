@@ -197,12 +197,6 @@ http://localhost:5173
 
 ---
 
-## 📸 Screenshots / Demo
-
-> (Optional – Add screenshots or demo video here)
-
----
-
 ## 👤 Author
 
 **Vaibhaav Kandharkar**
