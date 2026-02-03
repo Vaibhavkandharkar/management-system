@@ -206,7 +206,7 @@ http://localhost:5173
 ## 👤 Author
 
 **Vaibhaav Kandharkar**
-Full Stack Developer (MERN & Java)
+Full Stack Developer (Reactjs / Java Developer)
 
 ---
 
